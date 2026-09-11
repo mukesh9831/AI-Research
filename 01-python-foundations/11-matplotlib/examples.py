@@ -1,0 +1,10 @@
+"""
+plot
+scatter
+hist
+xlabel
+ylabel
+title
+legend
+savefig
+"""
