@@ -64,3 +64,12 @@ Where might the approach fail?
 ### My questions
 
 What should be tested next?
+
+## Foundations
+| Paper | Status | Notes |
+|---|---|---|
+| Attention Is All You Need | Not Started | |
+| GPT | Not Started | |
+| GPT-2 | Not Started | |
+| BERT | Not Started | |
+| ResNet | Not Started | |
